@@ -72,8 +72,8 @@ hero: {
   accounts: {
     groom: [
       { role: "신랑", name: "김성현", bank: "농협은행", number: "302-0941-6334-11" },
-      { role: "아버지", name: "김호동", bank: "신한은행", number: "010-2274-2249" },
-      { role: "어머니", name: "박찬옥", bank: "우리은행", number: "010-2281-2269" }
+      { role: "아버지", name: "김호동", bank: "농협은행", number: "079-02-495004" },
+      { role: "어머니", name: "박찬옥", bank: "농협은행", number: "079-02-495004" }
     ],
     bride: [
       { role: "신부", name: "김아연", bank: "하나은행", number: "453-910434-11107" },
