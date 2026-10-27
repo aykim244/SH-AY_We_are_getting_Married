@@ -348,7 +348,7 @@ function initHero() {
         ${parentLine(b.father, b.mother, b.fatherDeceased, b.motherDeceased)}
         <span class="parent-dot">●</span>
         의 딸 <span class="child-name">${b.name} 
-        <a href="tel:${g.phone}" class="phone-link">☏</a></span>
+        <a href="tel:${b.phone}" class="phone-link">☏</a></span>
       </div>
     `;
 
